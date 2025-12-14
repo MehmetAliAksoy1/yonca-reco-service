@@ -1,0 +1,2152 @@
+[
+  {
+    "user_id": 1,
+    "brand_choices": [
+      {
+        "brand_id": 2,
+        "id": 2,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 1,
+        "id": 1,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 3,
+        "id": 3,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 103,
+        "id": 103,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 101,
+        "id": 101,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 2,
+    "brand_choices": [
+      {
+        "brand_id": 2,
+        "id": 2,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 3,
+        "id": 3,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 1,
+        "id": 1,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 103,
+        "id": 103,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 101,
+        "id": 101,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 3,
+    "brand_choices": [
+      {
+        "brand_id": 2,
+        "id": 2,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 1,
+        "id": 1,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 3,
+        "id": 3,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 101,
+        "id": 101,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 103,
+        "id": 103,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 4,
+    "brand_choices": [
+      {
+        "brand_id": 2,
+        "id": 2,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 3,
+        "id": 3,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 1,
+        "id": 1,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 103,
+        "id": 103,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 101,
+        "id": 101,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 5,
+    "brand_choices": [
+      {
+        "brand_id": 2,
+        "id": 2,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 3,
+        "id": 3,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 1,
+        "id": 1,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 101,
+        "id": 101,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 103,
+        "id": 103,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 6,
+    "brand_choices": [
+      {
+        "brand_id": 1,
+        "id": 1,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 2,
+        "id": 2,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 3,
+        "id": 3,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 103,
+        "id": 103,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 101,
+        "id": 101,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 7,
+    "brand_choices": [
+      {
+        "brand_id": 1,
+        "id": 1,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 2,
+        "id": 2,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 3,
+        "id": 3,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 103,
+        "id": 103,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 101,
+        "id": 101,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 8,
+    "brand_choices": [
+      {
+        "brand_id": 1,
+        "id": 1,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 2,
+        "id": 2,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 3,
+        "id": 3,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 101,
+        "id": 101,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 103,
+        "id": 103,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 9,
+    "brand_choices": [
+      {
+        "brand_id": 2,
+        "id": 2,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 3,
+        "id": 3,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 1,
+        "id": 1,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 103,
+        "id": 103,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 101,
+        "id": 101,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 10,
+    "brand_choices": [
+      {
+        "brand_id": 3,
+        "id": 3,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 2,
+        "id": 2,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 1,
+        "id": 1,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 103,
+        "id": 103,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 101,
+        "id": 101,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 11,
+    "brand_choices": [
+      {
+        "brand_id": 1,
+        "id": 1,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 3,
+        "id": 3,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 2,
+        "id": 2,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 103,
+        "id": 103,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 101,
+        "id": 101,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 12,
+    "brand_choices": [
+      {
+        "brand_id": 2,
+        "id": 2,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 1,
+        "id": 1,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 3,
+        "id": 3,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 103,
+        "id": 103,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 101,
+        "id": 101,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 13,
+    "brand_choices": [
+      {
+        "brand_id": 1,
+        "id": 1,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 2,
+        "id": 2,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 3,
+        "id": 3,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 101,
+        "id": 101,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 103,
+        "id": 103,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 14,
+    "brand_choices": [
+      {
+        "brand_id": 2,
+        "id": 2,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 1,
+        "id": 1,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 3,
+        "id": 3,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 101,
+        "id": 101,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 103,
+        "id": 103,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 15,
+    "brand_choices": [
+      {
+        "brand_id": 2,
+        "id": 2,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 3,
+        "id": 3,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 1,
+        "id": 1,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 103,
+        "id": 103,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 101,
+        "id": 101,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 16,
+    "brand_choices": [
+      {
+        "brand_id": 5,
+        "id": 5,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 6,
+        "id": 6,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 104,
+        "id": 104,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 106,
+        "id": 106,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 105,
+        "id": 105,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 17,
+    "brand_choices": [
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 6,
+        "id": 6,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 5,
+        "id": 5,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 106,
+        "id": 106,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 105,
+        "id": 105,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 104,
+        "id": 104,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 18,
+    "brand_choices": [
+      {
+        "brand_id": 6,
+        "id": 6,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 5,
+        "id": 5,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 104,
+        "id": 104,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 105,
+        "id": 105,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 106,
+        "id": 106,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 19,
+    "brand_choices": [
+      {
+        "brand_id": 5,
+        "id": 5,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 6,
+        "id": 6,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 105,
+        "id": 105,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 104,
+        "id": 104,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 106,
+        "id": 106,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 20,
+    "brand_choices": [
+      {
+        "brand_id": 5,
+        "id": 5,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 6,
+        "id": 6,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 106,
+        "id": 106,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 105,
+        "id": 105,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 104,
+        "id": 104,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 21,
+    "brand_choices": [
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 6,
+        "id": 6,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 5,
+        "id": 5,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 105,
+        "id": 105,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 104,
+        "id": 104,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 106,
+        "id": 106,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 22,
+    "brand_choices": [
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 5,
+        "id": 5,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 6,
+        "id": 6,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 105,
+        "id": 105,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 106,
+        "id": 106,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 104,
+        "id": 104,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 23,
+    "brand_choices": [
+      {
+        "brand_id": 6,
+        "id": 6,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 5,
+        "id": 5,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 104,
+        "id": 104,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 106,
+        "id": 106,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 105,
+        "id": 105,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 24,
+    "brand_choices": [
+      {
+        "brand_id": 5,
+        "id": 5,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 6,
+        "id": 6,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 104,
+        "id": 104,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 105,
+        "id": 105,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 106,
+        "id": 106,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 25,
+    "brand_choices": [
+      {
+        "brand_id": 6,
+        "id": 6,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 5,
+        "id": 5,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 104,
+        "id": 104,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 106,
+        "id": 106,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 105,
+        "id": 105,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 26,
+    "brand_choices": [
+      {
+        "brand_id": 6,
+        "id": 6,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 5,
+        "id": 5,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 105,
+        "id": 105,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 106,
+        "id": 106,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 104,
+        "id": 104,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 27,
+    "brand_choices": [
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 5,
+        "id": 5,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 6,
+        "id": 6,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 104,
+        "id": 104,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 105,
+        "id": 105,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 106,
+        "id": 106,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 28,
+    "brand_choices": [
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 5,
+        "id": 5,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 6,
+        "id": 6,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 106,
+        "id": 106,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 104,
+        "id": 104,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 105,
+        "id": 105,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 29,
+    "brand_choices": [
+      {
+        "brand_id": 6,
+        "id": 6,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 5,
+        "id": 5,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 105,
+        "id": 105,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 106,
+        "id": 106,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 104,
+        "id": 104,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 30,
+    "brand_choices": [
+      {
+        "brand_id": 5,
+        "id": 5,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 6,
+        "id": 6,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 105,
+        "id": 105,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 104,
+        "id": 104,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 106,
+        "id": 106,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 31,
+    "brand_choices": [
+      {
+        "brand_id": 7,
+        "id": 7,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 8,
+        "id": 8,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 9,
+        "id": 9,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 108,
+        "id": 108,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 107,
+        "id": 107,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 109,
+        "id": 109,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 32,
+    "brand_choices": [
+      {
+        "brand_id": 7,
+        "id": 7,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 9,
+        "id": 9,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 8,
+        "id": 8,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 107,
+        "id": 107,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 108,
+        "id": 108,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 109,
+        "id": 109,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 33,
+    "brand_choices": [
+      {
+        "brand_id": 7,
+        "id": 7,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 8,
+        "id": 8,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 9,
+        "id": 9,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 108,
+        "id": 108,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 107,
+        "id": 107,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 109,
+        "id": 109,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 34,
+    "brand_choices": [
+      {
+        "brand_id": 8,
+        "id": 8,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 7,
+        "id": 7,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 9,
+        "id": 9,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 107,
+        "id": 107,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 108,
+        "id": 108,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 109,
+        "id": 109,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 35,
+    "brand_choices": [
+      {
+        "brand_id": 7,
+        "id": 7,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 8,
+        "id": 8,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 9,
+        "id": 9,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 109,
+        "id": 109,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 108,
+        "id": 108,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 107,
+        "id": 107,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 36,
+    "brand_choices": [
+      {
+        "brand_id": 9,
+        "id": 9,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 7,
+        "id": 7,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 8,
+        "id": 8,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 109,
+        "id": 109,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 107,
+        "id": 107,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 108,
+        "id": 108,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 37,
+    "brand_choices": [
+      {
+        "brand_id": 7,
+        "id": 7,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 8,
+        "id": 8,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 9,
+        "id": 9,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 108,
+        "id": 108,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 107,
+        "id": 107,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 109,
+        "id": 109,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 38,
+    "brand_choices": [
+      {
+        "brand_id": 8,
+        "id": 8,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 7,
+        "id": 7,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 9,
+        "id": 9,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 107,
+        "id": 107,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 108,
+        "id": 108,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 109,
+        "id": 109,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 39,
+    "brand_choices": [
+      {
+        "brand_id": 8,
+        "id": 8,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 7,
+        "id": 7,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 9,
+        "id": 9,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 109,
+        "id": 109,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 108,
+        "id": 108,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 107,
+        "id": 107,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 40,
+    "brand_choices": [
+      {
+        "brand_id": 8,
+        "id": 8,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 9,
+        "id": 9,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 7,
+        "id": 7,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 107,
+        "id": 107,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 108,
+        "id": 108,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 109,
+        "id": 109,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 41,
+    "brand_choices": [
+      {
+        "brand_id": 8,
+        "id": 8,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 9,
+        "id": 9,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 1,
+        "id": 1,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 101,
+        "id": 101,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 104,
+        "id": 104,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 42,
+    "brand_choices": [
+      {
+        "brand_id": 8,
+        "id": 8,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 7,
+        "id": 7,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 2,
+        "id": 2,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 105,
+        "id": 105,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 108,
+        "id": 108,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 103,
+        "id": 103,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 43,
+    "brand_choices": [
+      {
+        "brand_id": 7,
+        "id": 7,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 9,
+        "id": 9,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 2,
+        "id": 2,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 105,
+        "id": 105,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 107,
+        "id": 107,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 106,
+        "id": 106,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 44,
+    "brand_choices": [
+      {
+        "brand_id": 9,
+        "id": 9,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 1,
+        "id": 1,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 8,
+        "id": 8,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 106,
+        "id": 106,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 101,
+        "id": 101,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 45,
+    "brand_choices": [
+      {
+        "brand_id": 1,
+        "id": 1,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 8,
+        "id": 8,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 101,
+        "id": 101,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 104,
+        "id": 104,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 46,
+    "brand_choices": [
+      {
+        "brand_id": 9,
+        "id": 9,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 3,
+        "id": 3,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 104,
+        "id": 104,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 103,
+        "id": 103,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 106,
+        "id": 106,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 47,
+    "brand_choices": [
+      {
+        "brand_id": 7,
+        "id": 7,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 8,
+        "id": 8,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 106,
+        "id": 106,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 109,
+        "id": 109,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 48,
+    "brand_choices": [
+      {
+        "brand_id": 9,
+        "id": 9,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 7,
+        "id": 7,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 101,
+        "id": 101,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 104,
+        "id": 104,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 49,
+    "brand_choices": [
+      {
+        "brand_id": 9,
+        "id": 9,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 2,
+        "id": 2,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 103,
+        "id": 103,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 102,
+        "id": 102,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 107,
+        "id": 107,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  },
+  {
+    "user_id": 50,
+    "brand_choices": [
+      {
+        "brand_id": 2,
+        "id": 2,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "brand_id": 4,
+        "id": 4,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "brand_id": 9,
+        "id": 9,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ],
+    "reward_choices": [
+      {
+        "reward_id": 109,
+        "id": 109,
+        "slot_position": 1,
+        "slot_score": 5
+      },
+      {
+        "reward_id": 108,
+        "id": 108,
+        "slot_position": 2,
+        "slot_score": 3
+      },
+      {
+        "reward_id": 101,
+        "id": 101,
+        "slot_position": 3,
+        "slot_score": 1
+      }
+    ]
+  }
+]
